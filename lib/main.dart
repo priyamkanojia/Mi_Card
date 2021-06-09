@@ -223,7 +223,7 @@ class MyApp extends StatelessWidget {
                       //size: 30.0,
                       color: Colors.teal,
                     ),
-                    title: Text('+91 9174668280',
+                    title: Text('+91 XXXXXXXXXX',
                       style: TextStyle(
                         color: Colors.teal.shade900,
                         fontSize: 15.0,
@@ -240,7 +240,7 @@ class MyApp extends StatelessWidget {
                       Icons.email,
                       color: Colors.teal,
                     ),
-                    title: Text('kanojiapriyam1499@gmail.com',
+                    title: Text('abc@gmail.com',
                       style: TextStyle(
                         color: Colors.teal.shade900,
                         fontSize: 15.0,
